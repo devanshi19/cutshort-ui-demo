@@ -1,0 +1,13 @@
+.textwrap {
+    padding-top: 100px;
+}
+
+.textwrap h2 {
+    font-weight: 600;
+    color: var(--color-black);
+}
+
+.textwrap p {
+    font-size: 16px;
+    color: var(--color-grey-100);
+}

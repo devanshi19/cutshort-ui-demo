@@ -1,0 +1,27 @@
+.formWrap {
+    padding-top: 30px;
+}
+
+.formelement {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin: 20px auto;
+}
+
+.formelement label {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--color-black);
+}
+
+.formelement::placeholder {
+    color: var(--color-grey-400);
+}
+
+.formBtn {
+    display: flex;
+    margin: 0 auto;
+    width: 50%;
+}

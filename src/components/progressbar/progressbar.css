@@ -1,0 +1,29 @@
+.progressWrap {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.progressNoDiv {
+    width: 30px;
+    height: 30px;
+    background-color: var(--color-blue-200);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-white);
+    font-size: 13px;
+}
+
+.progressNoDiv span {
+    cursor: pointer;
+}
+
+.RSPBprogressBar {
+    height: 3px !important;
+}
+
+.RSPBprogressBar .RSPBprogression {
+    background: var(--color-grey-100) !important;
+}

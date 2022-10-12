@@ -1,0 +1,17 @@
+.logoWrap .top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topIcon {
+    height: 40px !important;
+    width: 40px !important;
+    color: var(--color-blue-200);
+}
+
+.logoWrap .top h5 {
+    font-weight: 800;
+    color: var(--color-black);
+    font-size: 20px;
+}
